@@ -3,7 +3,7 @@
 const fs = require('fs');
 const http = require('http');
 const PORT = 3330 || process.env.PORT;
-const src = "/home/thewarlock/Desktop/2017UGCS071.pdf"
+const src = "" //source of the pdf file for which thumbnail is to be created
 const hummus = require('hummus');
 const streams = require('memory-streams');
 const PDFRStreamForBuffer = require('./pdfr-stream-for-buffer.js');
