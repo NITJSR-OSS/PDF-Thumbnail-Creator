@@ -1,0 +1,25 @@
+{
+  "name": "PDF-Thumbnail-Creator",
+  "version": "1.0.0",
+  "description": "**As you might have observed, when a file is uploaded to Google Drive, it is shown in the form of a thumbnail. So in this project we will at first create the thumbnail for any uploaded pdf and then convert that node server to a NPM package.**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NITJSR-OSS/PDF-Thumbnail-Creator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NITJSR-OSS/PDF-Thumbnail-Creator/issues"
+  },
+  "homepage": "https://github.com/NITJSR-OSS/PDF-Thumbnail-Creator#readme",
+  "dependencies": {
+    "blob": "^0.1.0",
+    "hummus": "^1.0.108",
+    "memory-streams": "^0.1.3"
+  }
+}
