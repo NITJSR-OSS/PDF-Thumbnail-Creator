@@ -35,27 +35,7 @@ const getFirstPage = function (buffer) {
 function pdf2thumb(buf) {
     let ResImg=buf;
 
-    // console.log(typeof(ResImg));
-    // // console.log(ResImg)
-
-    // try{
-    //      // 'image/jpeg'
-    //     var keys = [];
-    //     for (var k in ResImg) {
-    //         if (k.hasOwnProperty(k)) {
-    //         keys.push(k);
-    //         }
-    //     }
-    //     console.log(typeof(keys));
-
-    //     let blob = new Blob(keys, {type : 'image/jpeg'});
-    
-    // return blob;
-    // }
-    // catch(err){
-    //     console.log("error :::" + err);
-    // }
-    return buf;
+    return ResImg;
    
   }
   
