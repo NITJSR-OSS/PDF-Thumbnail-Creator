@@ -19,7 +19,10 @@
   "homepage": "https://github.com/NITJSR-OSS/PDF-Thumbnail-Creator#readme",
   "dependencies": {
     "blob": "^0.1.0",
-    "hummus": "^1.0.108",
-    "memory-streams": "^0.1.3"
+    "hummus": "^1.0.110",
+    "image-to-base64": "^2.1.1",
+    "memory-streams": "^0.1.3",
+    "node-pdftocairo": "^1.1.0",
+    "tslib": "^2.0.1"
   }
 }
