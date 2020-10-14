@@ -17,7 +17,8 @@
     "url": "https://github.com/NITJSR-OSS/PDF-Thumbnail-Creator/issues"
   },
   "homepage": "https://github.com/NITJSR-OSS/PDF-Thumbnail-Creator#readme",
-  "dependencies": {
+  "dependencies": 
+  {
     "blob": "^0.1.0",
     "hummus": "^1.0.108",
     "memory-streams": "^0.1.3"
