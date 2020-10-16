@@ -8,7 +8,7 @@ As you might have observed, when a file is uploaded to Google Drive, it is shown
 ## Guidelines
 - [ ] Clone the repo and run the node server, replacing the file source in the app.js file.
 
-- [ ] Currently the project containes code which extract the first page of the pdf into an array buffer.
+- [ ] Currently the project contains code which extract the first page of the pdf into an array buffer.
 
 - [ ] You can either continue to work on the same code or you can suggest a totally different approach to achieve the same. 
   
